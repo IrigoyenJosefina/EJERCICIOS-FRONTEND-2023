@@ -1,0 +1,35 @@
+#container{
+    display: flex;
+    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#card{
+  background:floralwhite;
+  width: 250px;
+  height: 210px;
+  text-align: center;
+  border:1px solid black;
+  margin-bottom: 10px;
+}
+
+#nombre{
+    font-size:large;
+    font-weight: 100;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#direccion{
+    font-size:medium;
+    font-weight: 100;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#foto{
+width: 100px;
+height: 100px;
+border-radius: 50px;
+}
