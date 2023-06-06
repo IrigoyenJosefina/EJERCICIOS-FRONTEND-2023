@@ -1,0 +1,28 @@
+#container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#card{
+    background:greenyellow;
+    margin: 13px 13px 13px 13px;
+    text-align: center;
+    width: 300px;
+    height: 420px;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 160%;
+}
+
+h3{
+    font-family: monospace;
+    font-weight: 100;
+}
+
+img{
+   width: 250px;
+   height: 300px;
+}
